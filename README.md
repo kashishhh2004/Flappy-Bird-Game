@@ -20,13 +20,13 @@ If you don't have Python installed, download it from [python.org](https://www.py
 ### Step 2: Install Pygame
 You can install Pygame by running the following command:
 
-``bash
+``bash :
 pip install pygame
 
 Step 3: Run the Game
 After you have installed Python and Pygame, navigate to the project directory in your terminal and run the following command to start the game:
 
-bash
+bash :
 python flappy_bird.py
 
 Game Controls
